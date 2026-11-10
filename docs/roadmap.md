@@ -1,6 +1,6 @@
 # Roadmap — Full Cycle Chat
 
-2026-11-09 · Luiz Carlos
+2026-11-09 · Ruan C. Rodrigues
 
 As funcionalidades a desenvolver, a ordem entre elas e o status de cada uma. O objetivo de cada
 fase e o critério para passar de uma a outra estão no [product brief](product-brief.md), seção

@@ -1,6 +1,6 @@
 # LLD — Full Cycle Chat
 
-2026-11-09 · Luiz Carlos · Status: rascunho · HLD: [hld.md](hld.md)
+2026-11-09 · Ruan C. Rodrigues · Status: rascunho · HLD: [hld.md](hld.md)
 
 **Onde mora cada fato**
 

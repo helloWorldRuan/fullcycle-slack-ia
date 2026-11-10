@@ -1,6 +1,6 @@
 # Spec · F01 · Login e sessão
 
-2026-11-09 · Luiz Carlos · Status: pronta · PRD: [prd.md](prd.md)
+2026-11-09 · Ruan C. Rodrigues · Status: pronta · PRD: [prd.md](prd.md)
 
 Como a F01 será construída. O que a Pessoa consegue fazer, os critérios de aceite e o que não é
 objetivo estão no PRD. As regras de Sessão e de login, os valores e as convenções transversais
