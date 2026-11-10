@@ -1,6 +1,6 @@
 # Product Brief: Full Cycle Chat
 
-2026-11-03 · Luiz Carlos · Status: rascunho
+2026-11-03 · Ruan C. Rodrigues · Status: rascunho
 
 ## Visão geral
 

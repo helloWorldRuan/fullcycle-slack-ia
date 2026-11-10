@@ -1,6 +1,6 @@
 # PRD · F01 · Login e sessão
 
-2026-11-09 · Luiz Carlos · Status: aprovado
+2026-11-09 · Ruan C. Rodrigues · Status: aprovado
 
 ## 1. Resumo executivo
 

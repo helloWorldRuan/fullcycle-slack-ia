@@ -1,6 +1,6 @@
 # HLD — Full Cycle Chat
 
-2026-11-06 · Luiz Carlos · Status: rascunho · LLD: A definir
+2026-11-06 · Ruan C. Rodrigues · Status: rascunho · LLD: A definir
 
 ## 1. Contexto e objetivos
 
@@ -65,7 +65,7 @@ Funcionalidades que mais pesam no desenho:
 | Operação | Contas e permissões criadas por script, fora do produto | Brief, "Fora de escopo" |
 | Produto | Relatório de dados entregue como PDF para baixar | Brief, "Escopo do MVP" item 11 |
 | Produto | Pedido demorado ao agente processado em segundo plano, com o resultado entregue depois na conversa | Brief, "Escopo do MVP" item 13 |
-| Dados | Banco do chat e banco de negócio na mesma instância de banco de dados | Luiz Carlos, na entrevista do HLD |
+| Dados | Banco do chat e banco de negócio na mesma instância de banco de dados | Ruan C. Rodrigues, na entrevista do HLD |
 | Prazo | Sem prazo de lançamento definido | Brief, RNF "Prazo" |
 | Equipe | A definir | — |
 | Orçamento | Teto mensal de infraestrutura a definir | — |
